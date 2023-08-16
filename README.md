@@ -3,6 +3,12 @@
  <a href=""><img src="https://img.shields.io/badge/python-3.7+-aff.svg"></a>
 </p>
 
+TO RUN in Codespace:
+```
+curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+sudo apt-get update && sudo apt-get install ffmpeg libsm6 libxext6  -y
+```
+
 [![CodeFactor](https://www.codefactor.io/repository/github/kaylode/vnm-ocr-toolbox/badge)](https://www.codefactor.io/repository/github/kaylode/vnm-ocr-toolbox)
 
 This toolbox provides a pipeline to do OCR in Vietnamese documents (such as receipts, personal id, licenses,...). 
