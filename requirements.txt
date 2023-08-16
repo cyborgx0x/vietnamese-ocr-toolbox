@@ -8,7 +8,7 @@ ocrd-fork-pylsd==0.0.3
 einops==0.2.0
 prefetch_generator==1.0.1
 imgaug==0.4.0
-lmdb==1.0.0
+lmdb
 transformers==4.6.1
 torchnet
 gdown==3.13.0
@@ -16,3 +16,6 @@ webcolors
 pandas_profiling
 torchvision
 opencv-python
+scikit-learn
+scipy 
+matplotlib
